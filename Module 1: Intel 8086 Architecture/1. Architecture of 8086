@@ -1,0 +1,12 @@
+# FEATURES:
+1. Intel 8086 was launched in 1978.
+2. 8086 is a 16-bit microprocessor.
+3. This had major improvement over the execution speed of 8085.
+4. It is available in 40-pin Dual-Inline-Package(DIP).
+5. It is available in three versions:
+    a. 8086 (5MHz)
+    b. 8086-2 (8MHz)
+    c. 8086-1 (10MHz)
+6. It includes 16-bit Address Bus and 20-bit Data Bus.
+7. It consists of 29,000 transistors.
+8. 8086 can operate in two modes i.e Maximum and Minimum modes.
